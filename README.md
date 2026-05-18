@@ -61,7 +61,9 @@ outputs/
 ├── dashboard/
 
 
+## 📊 Dashboard Preview
 
+![Dashboard](outputs/dashboard/final_dashboard.png)
 
 ---
 
